@@ -16,6 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 <img src="assets/images/page1.png" width="350" title="hover text">
 <img src="assets/images/page2.png" width="350" title="hover text">
-<img src="assetsimages/page3.png" width="350" title="hover text">
+<img src="assets/images/page3.png" width="350" title="hover text">
 <img src="assets/images/page4.png" width="350" title="hover text">
 <img src="assets/images/page5.png" width="350" title="hover text">
