@@ -25,7 +25,7 @@ class Onboarding extends StatefulWidget {
 }
 
 class _OnboardingState extends State<Onboarding> {
-  List<TextEditingController> _textEditingControllersList = [
+  final List<TextEditingController> _textEditingControllersList = [
     TextEditingController(),
     TextEditingController(),
     TextEditingController(),
